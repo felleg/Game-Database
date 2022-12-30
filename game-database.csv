@@ -1,142 +1,142 @@
-CATEGORY,CORE,ARTWORK_PATH,BARCODE,GAME_PATH,GAME_NAME,METADATA
-Arika,PSX,tgm.jpg,270000000007,./TGM_PSX_CDDA.cue,Tetris the Grand Master,
-Arika,PSX,sakura-tetris.jpg,4526319000044,./Tetris with Card Captor Sakura - Eternal Heart (Japan).cue,,
-Capcom,ARCADE,mvc.png,790000000000,./Marvel Vs. Capcom Clash of Super Heroes (Euro 980123).mra,,
-Capcom,ARCADE,caw.png,810000000005,./Carrier Air Wing -World 901012-.mra,,
-Capcom,ARCADE,gsa.png,820000000004,./Gun Smoke.mra,,
-Capcom,NES,gun-smoke-nes.jpg,13388110094,./1 US - G-Q/Gun.Smoke (USA).nes,,
-Capcom,TGFX16,1943kai.jpg,4988658910024,./2 PC Engine - A-M/1943 Kai (Japan).pce,,
-Capcom,ARCADE,1943.png,830000000003,./1943 The Battle of Midway.mra,,
-Capcom,ARCADE,1941.png,840000000002,./1941 Counter Attack -World 900227-.mra,,
-Capcom,ARCADE,19xx.png,850000000001,./19XX The War Against Destiny (Euro 960104).mra,,
-Capcom,ARCADE,commando.png,860000000000,./Commando.mra,,
-Capcom,ARCADE,punisher.png,870000000009,./The Punisher (World 930422).mra,,
-Capcom,ARCADE,black-tiger.png,880000000008,./Black Tiger.mra,,
-Capcom,ARCADE,pang.png,890000000007,./Pang (World).mra,,
-Capcom,ARCADE,pang3.png,910000000002,./Pang! 3 -Euro 950601-.mra,,
-Capcom,ARCADE,cadillacs-dino.png,920000000001,./Cadillacs and Dinosaurs (World 930201).mra,,
-Capcom,ARCADE,ghostsngoblins.png,930000000000,./Ghosts'n Goblins (World Set 1).mra,,
-Capcom,ARCADE,ghoulsnghosts.png,940000000009,./Ghouls'n Ghosts -World-.mra,,
-Capcom,SNES,super-gng.jpg,13388130030,./1 US - S/Super Ghouls'n Ghosts (USA).sfc,,
-Capcom,ARCADE,side-arms.png,950000000008,"./Side Arms - Hyper Dyne (World, 861129).mra",,
-Capcom,ARCADE,legendary-wings.png,960000000007,./Legendary Wings.mra,,
-Capcom,SNES,goof-troop.jpg,13388130108,./1 US - F-M/Goof Troop (USA).sfc,,
-Capcom,ARCADE,nemo.png,970000000006,./Nemo -World 901130-.mra,,
-Capcom,NES,little-nemo.jpg,13388110223,./1 US - G-Q/Little Nemo - The Dream Master (USA).nes,,
-Capcom,SNES,demonscrest.jpg,13388130283,./1 US - A-E/Demon's Crest (USA).sfc,,
-Capcom,ARCADE,eco-fighters.png,980000000005,./Eco Fighters (World 931203).mra,,
-Capcom,PSX,jojo-psx.jpg,13388210466,./JoJo's Bizarre Adventure (USA).cue,,
-Capcom,ARCADE,sfa3.png,990000000004,./Street Fighter Alpha 3 (Euro 980904).mra,,
-Capcom,ARCADE,sf.png,101000000004,"./Street Fighter (US, set 1).mra",,
-Capcom,ARCADE,ssfiit.png,102000000001,./Super Street Fighter II Turbo (World 940223).mra,,
-Capcom,NES,sectionz-nes.jpg,13388110056,./1 US - R-Z/Section-Z (USA).nes,,
-Capcom,ARCADE,sectionz.png,103000000008,./SectionZ.mra,,
-Capcom,ARCADE,strider.png,104000000005,"./Strider -USA, B-Board 89624B-2-.mra",,
-Capcom,ARCADE,tiger-road.png,105000000002,./Tiger Road.mra,,
-Capcom,ARCADE,sonson.png,106000000009,./SonSon.mra,,
-Cave,ARCADE,dodonpachi.jpg,160000000001,DoDonPachi.mra,,
-Cave,ARCADE,donpachi.png,170000000000,DonPachi.mra,,
-Cave,ARCADE,esp-ra-de.jpg,180000000009,ESP Ra.De..mra,,
-Cave,ARCADE,guwange.jpg,190000000008,Guwange.mra,,
-Cave,ARCADE,progear.png,210000000003,Progear (USA 010117).mra,Progear,
-Cave,ARCADE,fever-sos.jpg,220000000002,Fever SOS.mra,,
-Compile,GENESIS,musha.png,716065811603,1 US - G-P/MUSHA - Metallic Uniframe Super Hybrid Armor (USA).md,,
-Compile,SMS,r-type-sms.jpg,10086090024,1 US - A-Z/R-Type (World).sms,,
-Compile,TGFX16,blazing-lazers.jpg,92218000422,1 TurboGrafx-16 - A-Z/Blazing Lazers (USA).pce,,
-Compile,SNES,space-megaforce.jpg,91521100065,1 US - S/Space Megaforce (USA).sfc,,
-Compile,SMS.GG,gg-aleste.png,4988161100400,2 Japan - A-Z/GG Aleste (Japan).gg ,GG Aleste,
-Compile,SMS.GG,gg-aleste-ii.jpg,4974365133306,"2 Japan - A-Z/GG Aleste II ~ Power Strike II (Japan, Europe).gg",GG Aleste II,
-Compile,SMS,power-strike.jpg,10086051094,"1 US - A-Z/Power Strike (USA, Europe, Brazil).sms",,
-Compile,SMS,power-strike-ii.jpg,4974365635541,"2 Europe - A-Z/Power Strike II (Europe, Brazil).sms",,
-Compile,GENESIS,dr-robotnik.png,10086017069,1 US - A-F/Dr. Robotnik's Mean Bean Machine (USA).md,,
-Compile,TGFX16-CD,seirei.jpg,4988658911038,Seirei_Senshi_Spriggan_(NTSC-J)_[NXCD1004].cue,Seirei Senshi Spriggan,
-Compile,NES,gun-nac.jpg,93992010607,1 US - G-Q/Gun Nac (USA).nes,,
-Compile,PSX,zanac-x-zanac.jpg,4988161100813,Zanac X Zanac.cue,Zanac X Zanac,
-Compile,TGFX16,devil-crush.jpg,92218000866,1 TurboGrafx-16 - A-Z/Devil's Crush (USA).pce,,
-Compile,TGFX16,alien-crush.png,92218000378,1 TurboGrafx-16 - A-Z/Alien Crush (USA).pce,,
-Compile,MEGACD,robo-aleste.jpg,31763092803,./Robo_Aleste(US-Genesis).cue,Robo Aleste,
-Data East,GENESIS,atomic-runner.jpg,13252014046,1 US - A-F/Atomic Runner (USA).md,,
-Data East,GENESIS,midnight-resistance.jpg,10086011296,./1 US - G-P/Midnight Resistance (USA).md,,
-Data East,ARCADE,burger-time.png,410000000007,Burger Time (Set 1).mra,,
-Data East,NES,b-wings.jpg,4961082610012,./2 Japan - A-Z/Japan A-D/B-Wings (Japan).nes,,
-Data East,NEOGEO,windjammers.jpg,420000000006,./1 World A-Z/Windjammers (wjammers).neo,,
-Data East,NEOGEO,magical-drop-iii.jpg,430000000005,./1 World A-Z/Magical Drop III (magdrop3).neo,,
-Data East,GENESIS,vapor-trail.jpg,720238101002,./1 US - Q-Z/Vapor Trail (USA).md,,
-Data East,SNES,super-road-blaster.png,440000000004,./SuperRoadBlaster/SuperRoadBlaster.sfc,,
-Data East,MEGACD,panic.jpg,13252016002,./Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].cue,Panic!,
-HAL Laboratories,NES,airfortress.jpg,40458036077,./1 US - A-F/Air Fortress (USA).nes,,
-HAL Laboratories,NES,eggerland.jpg,4988610101118,./2 Japan - A-Z/Japan E-J/Eggerland - Meikyuu no Fukkatsu (Japan).nes,,
-HAL Laboratories,NES,lolo.jpg,40458011050,./1 US - A-F/Adventures of Lolo (USA).nes,,
-HAL Laboratories,NES,lolo2.jpg,40458011081,./1 US - A-F/Adventures of Lolo 2 (USA).nes,,
-HAL Laboratories,NES,lolo3.jpg,40458033120,./1 US - A-F/Adventures of Lolo 3 (USA).nes,,
-HAL Laboratories,NES,lolo-ii.jpg,660000000006,./2 Japan - A-Z/Japan A-D/Adventures of Lolo II (Japan).nes,,
-HAL Laboratories,NES,lolo-i.jpg,670000000005,./2 Japan - A-Z/Japan A-D/Adventures of Lolo (Japan).nes,,
-HAL Laboratories,NES,newghostbusters-ii.jpg,680000000004,./2 Japan - A-Z/Japan K-O/New Ghostbusters II (Japan).nes,,
-HAL Laboratories,GAMEBOY.COL,pokemonpinball.jpg,45496730901,./1 Game Boy Color/1 GBC US - M-Z/Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).gbc,Pokemon Pinball,
-HAL Laboratories,NES,mother.png,690000000003,./4 Hacks/Hacks K-O/Mother 25th Anniversary Edition (EarthBound Proto Hack_DragonDePlatino) v1.11.nes,Mother 25th Anniversary Edition,
-HAL Laboratories,SNES,earthbound.jpg,45496830434,./1 US - A-E/EarthBound (USA).sfc,,
-HAL Laboratories,GBA,mother3.jpg,710000000008,./4 Translations/Mother 3 (J) T+Eng v1.2.gba,Mother 3 (English),
-Hudson,NES,challenger.jpg,4905505200312,./2 Japan - A-Z/Japan A-D/Challenger (Japan).nes,,
-Hudson,NES,star-soldier.jpg,40886782799,./1 US - R-Z/Star Soldier (USA).nes,,
-Hudson,TGFX16,final-soldier.jpg,4988607200473,./2 PC Engine - A-M/Final Soldier (Japan).pce,,
-Hudson,TGFX16,soldier-blade.jpg,4988607200596,./1 TurboGrafx-16 - A-Z/Soldier Blade (USA).pce,,
-Hudson,NES,adventures-of-dino-riki.jpg,39854000058,./1 US - A-F/Adventures of Dino Riki (USA).nes,,
-Hudson,GENESIS,mega-bomberman.png,10086015737,./1 US - G-P/Mega Bomberman (USA).md,,
-Hudson,TGFX16-CD,star-parodier.jpg,4988607250256,./Star Parodier (Japan)/Star Parodier (Japan).cue,,
-Hudson,NES,felix-the-cat.jpg,39854000171,./1 US - A-F/Felix the Cat (USA).nes,,
-Hudson,SNES,hagane.jpg,39854000423,./1 US - F-M/Hagane - The Final Conflict (USA).sfc,,
-Irem,ARCADE,rtype.png,450000000003,./R-Type (World).mra,,
-Irem,ARCADE,rtype2.png,460000000002,./R-Type II (World).mra,,
-Irem,SNES,rtype3.jpg,32264700174,./1 US - N-R/R-Type III (USA).sfc,,
-Irem,ARCADE,image-fight.png,470000000001,./Image Fight (World).mra,,
-Irem,ARCADE,moon-patrol.png,480000000000,./Moon Patrol.mra,,
-Irem,ARCADE,ninja-spirit.png,490000000009,./Ninja Spirit (Japan).mra,Ninja Spirit (Arcade),
-Irem,ARCADE,gallop.png,510000000004,./Gallop - Armed Police Unit (Japan).mra,Cosmic Cop,
-Irem,PSX,rtype-delta.jpg,93992086909,./R-Type Delta (USA).cue,,
-Irem,PSX,in-the-hunt.png,752919470039,./In the Hunt (USA).cue,,
-Irem,NES,metal-storm.jpg,715664190041,./1 US - G-Q/Metal Storm (USA).nes,,
-Irem,NES,sqoon.jpg,47956700400,./1 US - R-Z/Sqoon (USA).nes,,
-Konami,ARCADE,time-pilot.png,310000000000,./Time Pilot.mra,,
-Konami,ARCADE,time-pilot84.png,320000000009,./Time Pilot '84 (Set 1).mra,,
-Konami,NES,crisis-force.png,4988602569186,./2 Japan - A-Z/Japan A-D/Crisis Force (Japan).nes,,
-Konami,TGFX16-CD,c-rondo-blood.jpg,4988602607291,"./Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).cue",Castlavania Rondo of Blood,
-Konami,ARCADE,scramble.png,330000000008,./Scramble.mra,,
-Konami,ARCADE,super-cobra.png,340000000007,./Super Cobra.mra,,
-Konami,PSX,castlevania-sotn.jpg,83717170037,./Castlevania - Symphony of the Night (USA).cue,,
-Konami,GENESIS,rka.jpg,83717160038,./1 US - Q-Z/Rocket Knight Adventures (USA).md,,
-Konami,ARCADE,fast-lane.png,350000000006,./Fast Lane.mra,,
-Konami,TGFX16-CD,gradius-2-pce.jpg,4988602599398,./Gradius_2_-_Gofer_no_Yabou_(NTSC-J)_[KMCD2003].cue,Gradius 2 - Gofer no Yabou,
-Konami,NES,life-force.jpg,83717110118,./1 US - G-Q/Life Force (USA).nes,,
-Konami,ARCADE,gradius.png,360000000005,./Nemesis (ROM Version).mra,Gradius ,
-Konami,ARCADE,road-fighter.png,370000000004,./Road Fighter (set 1).mra,,
-Konami,PSX,gradius-gaiden.jpg,4988602061208,./Gradius Gaiden (J) (v1.1) [SLPM-86042].cue,Gradius Gaiden,
-Konami,GENESIS,contra-hard-corps.jpg,83717160113,"./1 US - A-F/Contra - Hard Corps (USA, Korea).md",,
-Konami,NES,contra.jpg,83717110095,./1 US - A-F/Contra (USA).nes,,
-Konami,NES,super-c.jpg,83717240204,./1 US - R-Z/Super C (USA).nes,,
-Konami,SNES,contra-iii.jpg,83717150039,./1 US - A-E/Contra III - The Alien Wars (USA).sfc,,
-Konami,PSX,salamander-dx-pack.jpg,4988602036213,./Salamander Deluxe Pack Plus (J) [SLPM-86037].cue,Salamander Deluxe Pack Plus,
-Konami,PSX,sexy-parodius.jpg,4988602029970,./Sexy Parodius (J) [SLPM-86009].cue,Sexy Parodius,
-Konami,NES,quarth.jpg,4988602558302,./2 Japan - A-Z/Japan P-S/Quarth (Japan).nes,,
-Konami,ARCADE,rush-n-attack.png,380000000003,./Green Beret.mra,Rush ‘n Attack,
-Konami,NES,twinbee3.jpg,4988602552331,./2 Japan - A-Z/Japan T-Z/TwinBee 3 - Poko Poko Daimaou (Japan).nes,,
-Konami,SNES,pop-n-twinbee.jpg,83717145073,./2 Japan - A-Z/Japan P-R/Pop'n TwinBee (Japan).sfc,,
-Konami,NES,yume-penguin.png,4988602564648,./4 Translations/English L-Z/Yume Penguin Monogatari (J) [T+Eng1.01_Vice].nes,Yume Penguin Monogatari,
-Konami,ARCADE,kicker.png,390000000002,./Kicker.mra,,
-Konami,NES,circus-charlie.jpg,4988603000206,./2 Japan - A-Z/Japan A-D/Circus Charlie (Japan).nes,,
-Konami,NES,gyruss-nes.jpg,83717120056,./1 US - G-Q/Gyruss (USA).nes,,
-Konami,SNES,axelay.jpg,83717150053,./1 US - A-E/Axelay (USA).sfc,,
-Konami,SNES,super-castlevania.jpg,83717150015,./1 US - S/Super Castlevania IV (USA).sfc,,
-Konami,SNES,tmnt4.jpg,83717150046,./1 US - T-Z/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).sfc,,
-Konami,PSX,bbs.jpg,4988602748161,./Bishi Bashi Special (E) [SLES-02537].cue,Bishi Bashi Special,
-Konami,PSX,bbs3.png,134000000002,./Bishi Bashi Special 3 (Japan) [SLPM-86539].cue,Bishi Bashi Special 3: Step Champ,
-Konami,NES,boku-dracula-kun.jpg,4988602558296,./2 Japan - A-Z/Japan A-D/Akumajou Special - Boku Dracula-kun (Japan).nes,,
-Konami,MEGACD,snatcher.jpg,83717165026,./Snatcher (Sega CD) (U)-redump.cue,Snatcher,
-Konami,ARCADE,mikie.png,135000000009,./Mikie.mra,,
-Masaya,GENESIS,gleylancer.jpg,4988616003102,./2 Japan - A-Z/Japan - A-O/Advanced Busterhawk Gleylancer (Japan).md,,
-Masaya,TGFX16-CD,cho-aniki-pcecd.jpg,4988616002112,./Chou_Aniki_(NTSC-J)_[NSCD2013].cue,Chō Aniki,
-Masaya,PSX,cho-aniki-psx.jpg,4988616010018,./Cho Aniki.cue,Chō Aniki: Kyūkyoku Muteki Ginga Saikyō Otoko,
-Masaya,TGFX16-CD,ai-cho-aniki.png,4988616002174,./Ai_Chou_Aniki_(NTSC-J)_[NSCD5018].cue,Ai Chō Aniki,
-Masaya,GENESIS,wings-of-wor.jpg,96338061059,./1 US - Q-Z/Wings of Wor (USA).md,,
+CATEGORY,CORE,ARTWORK_PATH,BARCODE,GAME_PATH,GAME_NAME,YEAR
+Arika,PSX,tgm.jpg,270000000007,./TGM_PSX_CDDA.cue,Tetris the Grand Master,1998
+Arika,PSX,sakura-tetris.jpg,4526319000044,./Tetris with Card Captor Sakura - Eternal Heart (Japan).cue,,2000
+Capcom,ARCADE,mvc.png,790000000000,./Marvel Vs. Capcom Clash of Super Heroes (Euro 980123).mra,Marvel Vs. Capcom Clash of Super Heroes,1998
+Capcom,ARCADE,caw.png,810000000005,./Carrier Air Wing -World 901012-.mra,Carrier Air Wing,1990
+Capcom,ARCADE,gsa.png,820000000004,./Gun Smoke.mra,,1985
+Capcom,NES,gun-smoke-nes.jpg,13388110094,./1 US - G-Q/Gun.Smoke (USA).nes,Gun.Smoke (NES),1988
+Capcom,TGFX16,1943kai.jpg,4988658910024,./2 PC Engine - A-M/1943 Kai (Japan).pce,,1991
+Capcom,ARCADE,1943.png,830000000003,./1943 The Battle of Midway.mra,,1988
+Capcom,ARCADE,1941.png,840000000002,./1941 Counter Attack -World 900227-.mra,1941 Counter Arrack,1990
+Capcom,ARCADE,19xx.png,850000000001,./19XX The War Against Destiny (Euro 960104).mra,19XX The Wra Against Destiny,1996
+Capcom,ARCADE,commando.png,860000000000,./Commando.mra,,1985
+Capcom,ARCADE,punisher.png,870000000009,./The Punisher (World 930422).mra,The Punisher Arcade,1993
+Capcom,ARCADE,black-tiger.png,880000000008,./Black Tiger.mra,,1987
+Capcom,ARCADE,pang.png,890000000007,./Pang (World).mra,,1989
+Capcom,ARCADE,pang3.png,910000000002,./Pang! 3 -Euro 950601-.mra,Pang! 3,1995
+Capcom,ARCADE,cadillacs-dino.png,920000000001,./Cadillacs and Dinosaurs (World 930201).mra,Cadillacs and Dinosaurs,1993
+Capcom,ARCADE,ghostsngoblins.png,930000000000,./Ghosts'n Goblins (World Set 1).mra,Ghosts 'n Goblins (Arcade),1985
+Capcom,ARCADE,ghoulsnghosts.png,940000000009,./Ghouls'n Ghosts -World-.mra,Ghouls 'n Ghosts (Arcade),1988
+Capcom,SNES,super-gng.jpg,13388130030,./1 US - S/Super Ghouls'n Ghosts (USA).sfc,Super Ghouls 'n Ghosts (SNES),1991
+Capcom,ARCADE,side-arms.png,950000000008,"./Side Arms - Hyper Dyne (World, 861129).mra",Side Arms - Hyper Dyne,1986
+Capcom,ARCADE,legendary-wings.png,960000000007,./Legendary Wings.mra,,1986
+Capcom,SNES,goof-troop.jpg,13388130108,./1 US - F-M/Goof Troop (USA).sfc,,1993
+Capcom,ARCADE,nemo.png,970000000006,./Nemo -World 901130-.mra,Nemo,1990
+Capcom,NES,little-nemo.jpg,13388110223,./1 US - G-Q/Little Nemo - The Dream Master (USA).nes,,1990
+Capcom,SNES,demonscrest.jpg,13388130283,./1 US - A-E/Demon's Crest (USA).sfc,,1994
+Capcom,ARCADE,eco-fighters.png,980000000005,./Eco Fighters (World 931203).mra,,1994
+Capcom,PSX,jojo-psx.jpg,13388210466,./JoJo's Bizarre Adventure (USA).cue,,1999
+Capcom,ARCADE,sfa3.png,990000000004,./Street Fighter Alpha 3 (Euro 980904).mra,Street Fighter Alpha 3,1998
+Capcom,ARCADE,sf.png,101000000004,"./Street Fighter (US, set 1).mra",Street Fighter 1,1987
+Capcom,ARCADE,ssfiit.png,102000000001,./Super Street Fighter II Turbo (World 940223).mra,Super Street Fighter II Turbo,1994
+Capcom,NES,sectionz-nes.jpg,13388110056,./1 US - R-Z/Section-Z (USA).nes,Section-Z (NES),1987
+Capcom,ARCADE,sectionz.png,103000000008,./SectionZ.mra,,1985
+Capcom,ARCADE,strider.png,104000000005,"./Strider -USA, B-Board 89624B-2-.mra",Strider (Arcade),1989
+Capcom,ARCADE,tiger-road.png,105000000002,./Tiger Road.mra,,1987
+Capcom,ARCADE,sonson.png,106000000009,./SonSon.mra,,1984
+Cave,ARCADE,dodonpachi.jpg,160000000001,DoDonPachi.mra,,1997
+Cave,ARCADE,donpachi.png,170000000000,DonPachi.mra,,1995
+Cave,ARCADE,esp-ra-de.jpg,180000000009,ESP Ra.De..mra,,1998
+Cave,ARCADE,guwange.jpg,190000000008,Guwange.mra,,1999
+Cave,ARCADE,progear.png,210000000003,Progear (USA 010117).mra,Progear,2001
+Cave,ARCADE,fever-sos.jpg,220000000002,Fever SOS.mra,,1998
+Compile,GENESIS,musha.png,716065811603,1 US - G-P/MUSHA - Metallic Uniframe Super Hybrid Armor (USA).md,,1990
+Compile,SMS,r-type-sms.jpg,10086090024,1 US - A-Z/R-Type (World).sms,,1988
+Compile,TGFX16,blazing-lazers.jpg,92218000422,1 TurboGrafx-16 - A-Z/Blazing Lazers (USA).pce,,1989
+Compile,SNES,space-megaforce.jpg,91521100065,1 US - S/Space Megaforce (USA).sfc,,1992
+Compile,SMS.GG,gg-aleste.png,4988161100400,2 Japan - A-Z/GG Aleste (Japan).gg ,GG Aleste,1991
+Compile,SMS.GG,gg-aleste-ii.jpg,4974365133306,"2 Japan - A-Z/GG Aleste II ~ Power Strike II (Japan, Europe).gg",GG Aleste II,1993
+Compile,SMS,power-strike.jpg,10086051094,"1 US - A-Z/Power Strike (USA, Europe, Brazil).sms",,1988
+Compile,SMS,power-strike-ii.jpg,4974365635541,"2 Europe - A-Z/Power Strike II (Europe, Brazil).sms",,1993
+Compile,GENESIS,dr-robotnik.png,10086017069,1 US - A-F/Dr. Robotnik's Mean Bean Machine (USA).md,,1993
+Compile,TGFX16-CD,seirei.jpg,4988658911038,Seirei_Senshi_Spriggan_(NTSC-J)_[NXCD1004].cue,Seirei Senshi Spriggan,1991
+Compile,NES,gun-nac.jpg,93992010607,1 US - G-Q/Gun Nac (USA).nes,,1990
+Compile,PSX,zanac-x-zanac.jpg,4988161100813,Zanac X Zanac.cue,Zanac X Zanac,2001
+Compile,TGFX16,devil-crush.jpg,92218000866,1 TurboGrafx-16 - A-Z/Devil's Crush (USA).pce,,1990
+Compile,TGFX16,alien-crush.png,92218000378,1 TurboGrafx-16 - A-Z/Alien Crush (USA).pce,,1988
+Compile,MEGACD,robo-aleste.jpg,31763092803,./Robo_Aleste(US-Genesis).cue,Robo Aleste,1992
+Data East,GENESIS,atomic-runner.jpg,13252014046,1 US - A-F/Atomic Runner (USA).md,,1992
+Data East,GENESIS,midnight-resistance.jpg,10086011296,./1 US - G-P/Midnight Resistance (USA).md,,1991
+Data East,ARCADE,burger-time.png,410000000007,Burger Time (Set 1).mra,BurgerTime,1982
+Data East,NES,b-wings.jpg,4961082610012,./2 Japan - A-Z/Japan A-D/B-Wings (Japan).nes,,1986
+Data East,NEOGEO,windjammers.jpg,420000000006,./1 World A-Z/Windjammers (wjammers).neo,,1994
+Data East,NEOGEO,magical-drop-iii.jpg,430000000005,./1 World A-Z/Magical Drop III (magdrop3).neo,,1996
+Data East,GENESIS,vapor-trail.jpg,720238101002,./1 US - Q-Z/Vapor Trail (USA).md,,1991
+Data East,SNES,super-road-blaster.png,440000000004,./SuperRoadBlaster/SuperRoadBlaster.sfc,Super Road Blaster (Modern Port),1985
+Data East,MEGACD,panic.jpg,13252016002,./Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].cue,Panic!,1993
+HAL Laboratories,NES,airfortress.jpg,40458036077,./1 US - A-F/Air Fortress (USA).nes,,1987
+HAL Laboratories,NES,eggerland.jpg,4988610101118,./2 Japan - A-Z/Japan E-J/Eggerland - Meikyuu no Fukkatsu (Japan).nes,,1987
+HAL Laboratories,NES,lolo.jpg,40458011050,./1 US - A-F/Adventures of Lolo (USA).nes,,1989
+HAL Laboratories,NES,lolo2.jpg,40458011081,./1 US - A-F/Adventures of Lolo 2 (USA).nes,,1990
+HAL Laboratories,NES,lolo3.jpg,40458033120,./1 US - A-F/Adventures of Lolo 3 (USA).nes,,1990
+HAL Laboratories,NES,lolo-ii.jpg,660000000006,./2 Japan - A-Z/Japan A-D/Adventures of Lolo II (Japan).nes,,1990
+HAL Laboratories,NES,lolo-i.jpg,670000000005,./2 Japan - A-Z/Japan A-D/Adventures of Lolo (Japan).nes,,1990
+HAL Laboratories,NES,newghostbusters-ii.jpg,680000000004,./2 Japan - A-Z/Japan K-O/New Ghostbusters II (Japan).nes,,1990
+HAL Laboratories,GAMEBOY.COL,pokemonpinball.jpg,45496730901,./1 Game Boy Color/1 GBC US - M-Z/Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).gbc,Pokemon Pinball,1999
+HAL Laboratories,NES,mother.png,690000000003,./4 Hacks/Hacks K-O/Mother 25th Anniversary Edition (EarthBound Proto Hack_DragonDePlatino) v1.11.nes,Mother 25th Anniversary Edition,1989
+HAL Laboratories,SNES,earthbound.jpg,45496830434,./1 US - A-E/EarthBound (USA).sfc,,1994
+HAL Laboratories,GBA,mother3.jpg,710000000008,./4 Translations/Mother 3 (J) T+Eng v1.2.gba,Mother 3 (English),2006
+Hudson Soft,NES,challenger.jpg,4905505200312,./2 Japan - A-Z/Japan A-D/Challenger (Japan).nes,,1985
+Hudson Soft,NES,star-soldier.jpg,40886782799,./1 US - R-Z/Star Soldier (USA).nes,,1986
+Hudson Soft,TGFX16,final-soldier.jpg,4988607200473,./2 PC Engine - A-M/Final Soldier (Japan).pce,,1991
+Hudson Soft,TGFX16,soldier-blade.jpg,4988607200596,./1 TurboGrafx-16 - A-Z/Soldier Blade (USA).pce,,1992
+Hudson Soft,NES,adventures-of-dino-riki.jpg,39854000058,./1 US - A-F/Adventures of Dino Riki (USA).nes,,1987
+Hudson Soft,GENESIS,mega-bomberman.png,10086015737,./1 US - G-P/Mega Bomberman (USA).md,,1994
+Hudson Soft,TGFX16-CD,star-parodier.jpg,4988607250256,./Star Parodier (Japan)/Star Parodier (Japan).cue,,1992
+Hudson Soft,NES,felix-the-cat.jpg,39854000171,./1 US - A-F/Felix the Cat (USA).nes,,1992
+Hudson Soft,SNES,hagane.jpg,39854000423,./1 US - F-M/Hagane - The Final Conflict (USA).sfc,,1994
+Irem,ARCADE,rtype.png,450000000003,./R-Type (World).mra,,1987
+Irem,ARCADE,rtype2.png,460000000002,./R-Type II (World).mra,,1989
+Irem,SNES,rtype3.jpg,32264700174,./1 US - N-R/R-Type III (USA).sfc,,1993
+Irem,ARCADE,image-fight.png,470000000001,./Image Fight (World).mra,,1988
+Irem,ARCADE,moon-patrol.png,480000000000,./Moon Patrol.mra,,1982
+Irem,ARCADE,ninja-spirit.png,490000000009,./Ninja Spirit (Japan).mra,Ninja Spirit (Arcade),1988
+Irem,ARCADE,gallop.png,510000000004,./Gallop - Armed Police Unit (Japan).mra,Cosmic Cop,1991
+Irem,PSX,rtype-delta.jpg,93992086909,./R-Type Delta (USA).cue,,1998
+Irem,PSX,in-the-hunt.png,752919470039,./In the Hunt (USA).cue,,1993
+Irem,NES,metal-storm.jpg,715664190041,./1 US - G-Q/Metal Storm (USA).nes,,1991
+Irem,NES,sqoon.jpg,47956700400,./1 US - R-Z/Sqoon (USA).nes,,1986
+Konami,ARCADE,time-pilot.png,310000000000,./Time Pilot.mra,,1982
+Konami,ARCADE,time-pilot84.png,320000000009,./Time Pilot '84 (Set 1).mra,,1984
+Konami,NES,crisis-force.png,4988602569186,./2 Japan - A-Z/Japan A-D/Crisis Force (Japan).nes,,1991
+Konami,TGFX16-CD,c-rondo-blood.jpg,4988602607291,"./Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).cue",Castlavania Rondo of Blood,1993
+Konami,ARCADE,scramble.png,330000000008,./Scramble.mra,,1981
+Konami,ARCADE,super-cobra.png,340000000007,./Super Cobra.mra,,1981
+Konami,PSX,castlevania-sotn.jpg,83717170037,./Castlevania - Symphony of the Night (USA).cue,,1997
+Konami,GENESIS,rka.jpg,83717160038,./1 US - Q-Z/Rocket Knight Adventures (USA).md,,1993
+Konami,ARCADE,fast-lane.png,350000000006,./Fast Lane.mra,,1987
+Konami,TGFX16-CD,gradius-2-pce.jpg,4988602599398,./Gradius_2_-_Gofer_no_Yabou_(NTSC-J)_[KMCD2003].cue,Gradius 2 - Gofer no Yabou,1992
+Konami,NES,life-force.jpg,83717110118,./1 US - G-Q/Life Force (USA).nes,,1987
+Konami,ARCADE,gradius.png,360000000005,./Nemesis (ROM Version).mra,Gradius,1985
+Konami,ARCADE,road-fighter.png,370000000004,./Road Fighter (set 1).mra,,1984
+Konami,PSX,gradius-gaiden.jpg,4988602061208,./Gradius Gaiden (J) (v1.1) [SLPM-86042].cue,Gradius Gaiden,1997
+Konami,GENESIS,contra-hard-corps.jpg,83717160113,"./1 US - A-F/Contra - Hard Corps (USA, Korea).md",,1994
+Konami,NES,contra.jpg,83717110095,./1 US - A-F/Contra (USA).nes,,1988
+Konami,NES,super-c.jpg,83717240204,./1 US - R-Z/Super C (USA).nes,,1990
+Konami,SNES,contra-iii.jpg,83717150039,./1 US - A-E/Contra III - The Alien Wars (USA).sfc,,1992
+Konami,PSX,salamander-dx-pack.jpg,4988602036213,./Salamander Deluxe Pack Plus (J) [SLPM-86037].cue,Salamander Deluxe Pack Plus,1997
+Konami,PSX,sexy-parodius.jpg,4988602029970,./Sexy Parodius (J) [SLPM-86009].cue,Sexy Parodius,1996
+Konami,NES,quarth.jpg,4988602558302,./2 Japan - A-Z/Japan P-S/Quarth (Japan).nes,,1990
+Konami,ARCADE,rush-n-attack.png,380000000003,./Green Beret.mra,Rush ‘n Attack,1985
+Konami,NES,twinbee3.jpg,4988602552331,./2 Japan - A-Z/Japan T-Z/TwinBee 3 - Poko Poko Daimaou (Japan).nes,,1989
+Konami,SNES,pop-n-twinbee.jpg,83717145073,./2 Japan - A-Z/Japan P-R/Pop'n TwinBee (Japan).sfc,,1993
+Konami,NES,yume-penguin.png,4988602564648,./4 Translations/English L-Z/Yume Penguin Monogatari (J) [T+Eng1.01_Vice].nes,Yume Penguin Monogatari,1991
+Konami,ARCADE,kicker.png,390000000002,./Kicker.mra,,1985
+Konami,NES,circus-charlie.jpg,4988603000206,./2 Japan - A-Z/Japan A-D/Circus Charlie (Japan).nes,,1986
+Konami,NES,gyruss-nes.jpg,83717120056,./1 US - G-Q/Gyruss (USA).nes,,1988
+Konami,SNES,axelay.jpg,83717150053,./1 US - A-E/Axelay (USA).sfc,,1992
+Konami,SNES,super-castlevania.jpg,83717150015,./1 US - S/Super Castlevania IV (USA).sfc,,1991
+Konami,SNES,tmnt4.jpg,83717150046,./1 US - T-Z/./1 US - T-Z/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc,,1992
+Konami,PSX,bbs.jpg,4988602748161,./Bishi Bashi Special (E) [SLES-02537].cue,Bishi Bashi Special,2000
+Konami,PSX,bbs3.png,134000000002,./Bishi Bashi Special 3 (Japan) [SLPM-86539].cue,Bishi Bashi Special 3: Step Champ,2000
+Konami,NES,boku-dracula-kun.jpg,4988602558296,./2 Japan - A-Z/Japan A-D/Akumajou Special - Boku Dracula-kun (Japan).nes,,1990
+Konami,MEGACD,snatcher.jpg,83717165026,./Snatcher (Sega CD) (U)-redump.cue,Snatcher,1994
+Konami,ARCADE,mikie.png,135000000009,./Mikie.mra,,1984
+Masaya,GENESIS,gleylancer.jpg,4988616003102,./2 Japan - A-Z/Japan - A-O/Advanced Busterhawk Gleylancer (Japan).md,Gley Lancer,1992
+Masaya,TGFX16-CD,cho-aniki-pcecd.jpg,4988616002112,./Chou_Aniki_(NTSC-J)_[NSCD2013].cue,Chō Aniki,1992
+Masaya,PSX,cho-aniki-psx.jpg,4988616010018,./Cho Aniki.cue,Chō Aniki: Kyūkyoku Muteki Ginga Saikyō Otoko,1995
+Masaya,TGFX16-CD,ai-cho-aniki.png,4988616002174,./Ai_Chou_Aniki_(NTSC-J)_[NSCD5018].cue,Ai Chō Aniki,1995
+Masaya,GENESIS,wings-of-wor.jpg,96338061059,./1 US - Q-Z/Wings of Wor (USA).md,,1991
 Midway-Williams,ARCADE,defender.png,110000000006,Defender (Red Label).mra,Defender,
 Midway-Williams,ARCADE,sinistar.jpg,120000000005,Sinistar.mra,,
 Midway-Williams,ARCADE,robotron-2084.png,130000000004,Robotron 2084.mra,,
@@ -322,7 +322,7 @@ Toaplan,ARCADE,out-zone.jpg,230000000001,Out Zone.mra,,
 Toaplan,ARCADE,truxton.png,240000000000,Truxton - Tatsujin.mra,,
 Toaplan,ARCADE,truxton-ii.jpg,250000000009,Truxton II - Tatsujin Oh.mra,,
 Toaplan,GENESIS,zero-wing-gen.jpg,4974365611385,2 Europe - A-Z/1 PAL - S-Z/Zero Wing (Europe).md,,
-Toaplan,ARCADE,zero-wing.jpg,260000000008,Zero Wing (2P set).mra,,
+Toaplan,ARCADE,zero-wing.png,260000000008,Zero Wing (2P set).mra,,
 Toaplan,GENESIS,slap-fight-md.jpg,4991425000118,./2 Japan - A-Z/Japan - P-Z/Slap Fight MD (Japan).md,,
 Toaplan,ARCADE,fire-shark.jpg,96338061035,./Fire Shark.mra,,
 Toaplan,ARCADE,hellfire.jpg,716065824429,Hellfire (2P set).mra,,
