@@ -188,18 +188,19 @@ Natsume,SNES,power-rangers-movie-snes.jpg,45557088415,1 US - F-M/Mighty Morphin 
 Natsume,GAMEBOY.COL,tony-hawk-2-gbc.jpg,47875122017,"1 Game Boy Color/1 GBC US - M-Z/Tony Hawk's Pro Skater 2 (USA, Europe).gbc",,2000,
 Natsume,GAMEBOY.COL,river-king.jpg,719593020059,1 Game Boy/1 GB US - H-Q/Legend of the River King GB (USA) (SGB Enhanced).gb,,1997,
 Natsume,NES,mitsume-ga-toru.jpg,138000000000,./2 Japan - A-Z/Japan K-O/Mitsume ga Tooru (Japan).nes,,1992,
-Neo Geo,NEOGEO,pulstar.jpg,4964808100866,1 World A-Z/Pulstar (pulstar).neo,Pulstar,1995,x
-Neo Geo,NEOGEO,blazing-star.jpg,4964808101214,1 World A-Z/Blazing Star (blazstar).neo,Blazing Star,1998,x
-Neo Geo,NEOGEO,viewpoint.jpg,724678245968,1 World A-Z/Viewpoint (viewpoin).neo,Viewpoint,1992,x
-Neo Geo,NEOGEO,last-resort.png,800000000006,1 World A-Z/Last Resort (lresort).neo,Last Resort,1992,x
-Neo Geo,NEOGEO,strikers-1945-plus.jpg,900000000003,1 World A-Z/Strikers 1945 Plus (s1945p).neo,Strikers 1945 Plus,1999,x
-Neo Geo,NEOGEO,neo-turf-masters.png,115000000001,./1 World A-Z/Neo Turf Masters (turfmast).neo,,1996,
-Neo Geo,NEOGEO,mslug.jpg,116000000008,./1 World A-Z/Metal Slug - Super Vehicle-001 (mslug).neo,,1996,x
-Neo Geo,NEOGEO,mslug2.png,117000000005,./1 World A-Z/Metal Slug 2 (mslug2).neo,,1998,x
-Neo Geo,NEOGEO,mslugx.png,118000000002,./1 World A-Z/Metal Slug X (mslugx).neo,,1999,x
-Neo Geo,NEOGEO,mslug3.png,119000000009,./1 World A-Z/Metal Slug 3 (mslug3).neo,,2000,x
-Neo Geo,NEOGEO,mslug4.jpg,121000000002,./1 World A-Z/Metal Slug 4 (mslug4).neo,,2002,x
-Neo Geo,NEOGEO,mslug5.jpg,122000000009,./1 World A-Z/Metal Slug 5 (mslug5).neo,,2004,x
+Aicom,NEOGEO,pulstar.jpg,4964808100866,1 World A-Z/Pulstar (pulstar).neo,Pulstar,1995,x
+Aicom,NEOGEO,blazing-star.jpg,4964808101214,1 World A-Z/Blazing Star (blazstar).neo,Blazing Star (Yumekobo),1998,x
+Aicom,NES,vice-project-doom.jpg,039471905118,1 US - R-Z/Vice: Project Doom (USA).nes,,1991,
+Aicom,NEOGEO,viewpoint.jpg,724678245968,1 World A-Z/Viewpoint (viewpoin).neo,Viewpoint,1992,x
+SNK,NEOGEO,last-resort.png,800000000006,1 World A-Z/Last Resort (lresort).neo,Last Resort,1992,x
+Psikyo,NEOGEO,strikers-1945-plus.jpg,900000000003,1 World A-Z/Strikers 1945 Plus (s1945p).neo,Strikers 1945 Plus,1999,x
+Nazca Corporation,NEOGEO,neo-turf-masters.png,115000000001,./1 World A-Z/Neo Turf Masters (turfmast).neo,,1996,
+Nazca Corporation,NEOGEO,mslug.jpg,116000000008,./1 World A-Z/Metal Slug - Super Vehicle-001 (mslug).neo,,1996,x
+Nazca Corporation,NEOGEO,mslug2.png,117000000005,./1 World A-Z/Metal Slug 2 (mslug2).neo,,1998,x
+Nazca Corporation,NEOGEO,mslugx.png,118000000002,./1 World A-Z/Metal Slug X (mslugx).neo,,1999,x
+Nazca Corporation,NEOGEO,mslug3.png,119000000009,./1 World A-Z/Metal Slug 3 (mslug3).neo,,2000,x
+Noise Factory,NEOGEO,mslug4.jpg,121000000002,./1 World A-Z/Metal Slug 4 (mslug4).neo,,2002,x
+Noise Factory,NEOGEO,mslug5.jpg,122000000009,./1 World A-Z/Metal Slug 5 (mslug5).neo,,2004,x
 Nichibutsu,ARCADE,terra-cresta.png,131000000001,./Terra Cresta (YM3526 set 1).mra,,1985,x
 Nichibutsu,ARCADE,terra-force.png,132000000008,./Terra Force (Japan).mra,,1987,x
 Nichibutsu,NES,magmax-nes.jpg,22909100056,./1 US - G-Q/Magmax (USA).nes,,1986,x
@@ -359,3 +360,12 @@ Vic Tokai,NES,krion-conquest.jpg,34912784666,"./1 US - G-Q/Krion Conquest, The (
 Vic Tokai,GENESIS,whip-rush.jpg,720238100104,./1 US - Q-Z/Whip Rush (USA).md,,1990,x
 Vic Tokai,GENESIS,mazin-saga.jpg,34912230361,./1 US - G-P/Mazin Saga - Mutant Fighter (USA).md,,1993,x
 Vic Tokai,MEGACD,keio-fs.png,9119940658,./Keio_Flying_Squadron(US-Genesis).cue,Keio Flying Squadron,1993,x
+ADK,NEOGEO,magician-lord.jpg,145000000008,1 World A-Z/Magician Lord (maglord).neo,Magician Lord,1991,
+Video System,SNES,sonic-wings.jpg,146000000005,????,,1992,x
+Video System,NEOGEO,sonic-wings-2.jpg,147000000002,1 World A-Z/Aero Fighters 2 (sonicwi2).neo,Sonic Wings 2,1994,x
+Video System,NEOGEO,sonic-wings-3.jpg,148000000009,1 World A-Z/Aero Fighters 3 (sonicwi3).neo,Sonic Wings 3,1995,x
+ADK,NEOGEO,twinkle-star-sprites.jpg,149000000006,1 World A-Z/Twinkle Star Sprites (twinspri).neo,Twinkle Star Sprites,1996,x
+Other,NEOGEO,shock-troopers.jpg,151000000009,1 World A-Z/Shock Troopers (set 1) (shocktro).neo,Shock Troopers,1997,x
+SNK,NEOGEO,garou-mark-of-the-wolves.jpg,152000000006,1 World A-Z/Garou - Mark of the Wolves (garou).neo,Garou - Mark of the Wolves,1999,
+SNK,NEOGEO,super-sidekicks-3.jpg,153000000003,1 World A-Z/Super Sidekicks 3 (ssideki3).neo,Super Sidekicks 3: The Next Glory,1995,
+SNK,NEOGEO,league-bowling.jpg,154000000000,1 World A-Z/League Bowling (lbowling).neo,League Bowling,1990,
