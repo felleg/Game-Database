@@ -56,6 +56,7 @@ Compile,TGFX16,devil-crush.jpg,92218000866,1 TurboGrafx-16 - A-Z/Devil's Crush (
 Compile,TGFX16,alien-crush.png,92218000378,1 TurboGrafx-16 - A-Z/Alien Crush (USA).pce,,1988,
 Compile,MEGACD,robo-aleste.jpg,31763092803,./Robo_Aleste(US-Genesis).cue,Robo Aleste,1992,x
 Data East,GENESIS,atomic-runner.jpg,13252014046,1 US - A-F/Atomic Runner (USA).md,,1992,x
+Data East,NEOGEO,spin-master.png,156000000004,1/ World A-Z/Spin Master (spinmast).neo,,1993,
 Data East,GENESIS,midnight-resistance.jpg,10086011296,./1 US - G-P/Midnight Resistance (USA).md,,1991,x
 Data East,ARCADE,burger-time.png,410000000007,Burger Time (Set 1).mra,BurgerTime,1982,
 Data East,NES,b-wings.jpg,4961082610012,./2 Japan - A-Z/Japan A-D/B-Wings (Japan).nes,,1986,x
@@ -280,6 +281,7 @@ RED,TGFX16-CD,lordsofthunder.jpg,92218001696,./Lords of Thunder [U][SCD][TGXCD10
 RED,TGFX16,air-zonk.jpg,92218001511,./1 TurboGrafx-16 - A-Z/Air Zonk (USA).pce,,1992,x
 RED,GENESIS,tempo.jpg,10086845044,"./1 US - A-Z/Tempo (Japan, USA).32x",,1995,
 SEGA,S32X,space-harrier-32x.jpg,730000000006,"./1 US - A-Z/Space Harrier (Japan, USA).32x",,1994,x
+SEGA,ARCADE,e-swat.png,157000000001,./E-Swat.mra,,1989,
 SEGA,ARCADE,outrun.jpg,740000000005,"./Out Run (sitdown-upright, Rev B).mra",OutRun (Arcade),1986,
 SEGA,ARCADE,super-hang-on.jpg,750000000004,./Super Hang-On (sitdown-upright) (unprotected).mra,Super Hang-On (Arcade),1987,
 SEGA,SMS,ninja-gaiden-sms.jpg,4974365671013,"./Game Gear/1 US - A-Z/Ninja Gaiden (USA, Europe).gg",,1992,
